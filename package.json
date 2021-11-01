@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/cursorsdottsx/tsgen/issues"
   },
-  "homepage": "https://github.com/cursorsdottsx/tsgen#readme"
+  "homepage": "https://github.com/cursorsdottsx/tsgen#readme",
+  "dependencies": {
+    "@types/node": "^16.11.6",
+    "typescript": "^4.4.4"
+  }
 }
